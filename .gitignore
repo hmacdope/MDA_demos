@@ -4,3 +4,6 @@
 # libtorch zip and extracted directories
 libtorch/
 libtorch*.zip
+
+# ignore build dir
+build/

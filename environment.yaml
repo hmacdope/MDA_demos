@@ -1,0 +1,10 @@
+# conda env file
+name: environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - cython
+  - numpy
+  - compilers
