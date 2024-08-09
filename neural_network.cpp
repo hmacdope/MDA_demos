@@ -2,7 +2,7 @@
 #include <torch/torch.h>
 #include <iostream>
 
-int main() {
-  torch::Tensor tensor = torch::eye(3);
-  std::cout << tensor << std::endl;
+torch::Tensor torch_eye(int N) {
+  torch::Tensor tensor = torch::eye(N);
+  return tensor;
 }
