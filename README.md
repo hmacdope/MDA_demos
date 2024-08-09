@@ -1,5 +1,7 @@
 ## Using MDAnalysis from Cython
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hmacdope/MDA_demos/HEAD?labpath=use_mda_with_cython.ipynb)
+
 ## Linking with a C library
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hmacdope/MDA_demos/HEAD?labpath=linking_with_a_c_library.ipynb)
 
